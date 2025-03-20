@@ -1,4 +1,4 @@
-package chap02;
+package chap_01;
 
 public class _02_datatypes {
     public static void main(String[] args) {
