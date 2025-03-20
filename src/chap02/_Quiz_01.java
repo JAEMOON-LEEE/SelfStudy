@@ -12,7 +12,7 @@
 약 3분 후 도착
 남은 거리 1.2km
  */
-package chapter01;
+package chap02;
 
 public class _Quiz_01 {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package chapter01;
-
-import java.sql.SQLOutput;
+package chap02;
 
 public class _06_Constants {
     public static void main(String[] args) {
